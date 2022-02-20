@@ -1,0 +1,9 @@
+__pycache__
+*/__pycache__
+env/
+
+mf6test/mymodel/
+mf6het3d/test/
+
+*.swp
+*.swo
